@@ -9,5 +9,9 @@ print("Python programming")
 
 print("I am at master branch ")
 
+<<<<<<< Updated upstream
+print("Fortran program")
+>>>>>>> Stashed changes
+=======
 print("Fortran program")
 >>>>>>> Stashed changes
